@@ -1,4 +1,4 @@
-name: Simple Workflow
+name: Maven Build
 
 on:
   push:
