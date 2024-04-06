@@ -15,18 +15,18 @@ The features of this system are:
 This software will look similar to the current NHS booking system, however, it will be more efficient and easily accessible.
 
 # Authors
-Georgie Parkin - GEHP2 <br>
-Lily Bradshaw - CB2004 <br>
-James Aris - JA758 <br>
-James Foulstone - JF533 <br>
-Zack Njoroge - ZN49 <br>
+Georgie Parkin <br>
+Lily Bradshaw <br>
+James Aris <br>
+James Foulstone <br>
+Zack Njoroge <br>
 
 # Acknowledgements
 This project uses Maven, an open-source project management tool for Java applications.
-The database is hosted on an AWS (Amazon Web Server)
+The database is hosted on an AWS (Amazon Web Server) and utilizes Java DB manager API
 
 ## Project status
-The project is completed, and looking for feedback; any issues, please let us know. Enjoy our creation.
+The project is completed, and looking for feedback; any issues, please let us know.
 
 ## Initial Setup & Guide (for Windows)
 
