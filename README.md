@@ -1,4 +1,4 @@
-# Software Development Assignment 1 - GP Surgery Booking and Management System
+# Client Assignement - GP Surgery Booking and Management System
 
 ## Description
 This is a piece of software for a GP Surgery. They needed a system that allowed patients to book and cancel appointments, look at notes and prescriptions, and change doctors.
