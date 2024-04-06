@@ -14,7 +14,6 @@ The features of this system are:
 - View all bookings <br>
 This software will look similar to the current NHS booking system, however, it will be more efficient and easily accessible.
 
-## Authors and acknowledgement
 # Authors
 Georgie Parkin - GEHP2 <br>
 Lily Bradshaw - CB2004 <br>
@@ -22,7 +21,7 @@ James Aris - JA758 <br>
 James Foulstone - JF533 <br>
 Zack Njoroge - ZN49 <br>
 
-# acknowledgements
+# Acknowledgements
 This project uses Maven, an open-source project management tool for Java applications.
 The database is hosted on an AWS (Amazon Web Server)
 
@@ -52,7 +51,6 @@ The project is completed, and looking for feedback; any issues, please let us kn
     - then select ok again to exit the environment variables sections
     - To check your install, enter Powershell or Command Prompt on your PC and type: ```mvn --version```
     - if this is not the case, feel free to message Lily
-    ![Environment Variables](image.png)
     ![mvn install check](image-1.png) 
 
 3. Running Maven & the Database test script (again, each line is a separate command to type):
@@ -76,3 +74,12 @@ The project is completed, and looking for feedback; any issues, please let us kn
     - WARNING: Please do not make any additions/ modifications to this file without being ABSOLUTELY sure
 
     ![mvn exec:java desired output](image-2.png)
+
+# Database Documentation & Demonstration
+
+As mentioned before, the databse is hoested on an Ubuntu AWS EC2 instance with port 3306 exposed for mySQL connection
+This database and remote machine are no longer active and are terminated as of Apr 2024
+The given workflow and timeline of development can be seen below
+![AWS1](https://github.com/Original-Lily/MediCare/assets/87139613/f0237963-20b7-44f5-a4a5-65801b7c2491)
+![AWS2](https://github.com/Original-Lily/MediCare/assets/87139613/6389c056-36d5-44af-ab57-47631edeb4a1)
+![AWS3](https://github.com/Original-Lily/MediCare/assets/87139613/ca46a569-d935-4a1f-b29d-02a047097bf3)
