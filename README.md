@@ -80,6 +80,9 @@ The project is completed, and looking for feedback; any issues, please let us kn
 As mentioned before, the databse is hoested on an Ubuntu AWS EC2 instance with port 3306 exposed for mySQL connection
 This database and remote machine are no longer active and are terminated as of Apr 2024
 The given workflow and timeline of development can be seen below
+
 ![AWS1](https://github.com/Original-Lily/MediCare/assets/87139613/f0237963-20b7-44f5-a4a5-65801b7c2491)
+
 ![AWS2](https://github.com/Original-Lily/MediCare/assets/87139613/6389c056-36d5-44af-ab57-47631edeb4a1)
+
 ![AWS3](https://github.com/Original-Lily/MediCare/assets/87139613/ca46a569-d935-4a1f-b29d-02a047097bf3)
