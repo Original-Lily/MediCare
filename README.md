@@ -81,7 +81,7 @@ As mentioned before, the databse is hoested on an Ubuntu AWS EC2 instance with p
 This database and remote machine are no longer active and are terminated as of Apr 2024
 The given workflow and timeline of development can be seen below
 
-![AWS1](https://github.com/Original-Lily/MediCare/assets/87139613/f0237963-20b7-44f5-a4a5-65801b7c2491)
+![AWS1](https://github.com/Original-Lily/MediCare/assets/87139613/55996c56-211a-4495-a7bf-e573cf397f21)
 
 ![AWS2](https://github.com/Original-Lily/MediCare/assets/87139613/6389c056-36d5-44af-ab57-47631edeb4a1)
 
