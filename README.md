@@ -86,3 +86,5 @@ The given workflow and timeline of development can be seen below
 ![AWS2](https://github.com/Original-Lily/MediCare/assets/87139613/6389c056-36d5-44af-ab57-47631edeb4a1)
 
 ![AWS3](https://github.com/Original-Lily/MediCare/assets/87139613/ca46a569-d935-4a1f-b29d-02a047097bf3)
+
+
