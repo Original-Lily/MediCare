@@ -1,4 +1,4 @@
-# Client Assignement - GP Surgery Booking and Management System
+# Client Assignment - GP Surgery Booking and Management System
 
 ## Description
 This is a piece of software for a GP Surgery. They needed a system that allowed patients to book and cancel appointments, look at notes and prescriptions, and change doctors.
@@ -12,7 +12,7 @@ The features of this system are:
 - View appointment details
 - View prescriptions
 - View all bookings <br>
-This software will look similar to the current NHS booking system, however, it will be more efficient and easily accessible.
+This software will look similar to the current NHS booking system. However, it will be more efficient and easily accessible.
 
 # Authors
 Georgie Parkin <br>
@@ -23,10 +23,10 @@ Zack Njoroge <br>
 
 # Acknowledgements
 This project uses Maven, an open-source project management tool for Java applications.
-The database is hosted on an AWS (Amazon Web Server) and utilizes Java DB manager API
+The database is hosted on an AWS (Amazon Web Server) and utilizes Java DB Manager API
 
 ## Project status
-The project is completed, and looking for feedback; any issues, please let us know.
+The project is completed, and looking for feedback; if there are any issues, please let us know.
 
 ## Initial Setup & Guide (for Windows)
 
@@ -77,9 +77,9 @@ The project is completed, and looking for feedback; any issues, please let us kn
 
 # Database Documentation & Demonstration
 
-As mentioned before, the databse is hoested on an Ubuntu AWS EC2 instance with port 3306 exposed for mySQL connection
+As mentioned, the data is hosted on an Ubuntu AWS EC2 instance with port 3306 exposed for MySQL connection.
 This database and remote machine are no longer active and are terminated as of Apr 2024
-The given workflow and timeline of development can be seen below
+The given workflow and timeline of development can be seen below.
 
 ![AWS1](https://github.com/Original-Lily/MediCare/assets/87139613/55996c56-211a-4495-a7bf-e573cf397f21)
 
