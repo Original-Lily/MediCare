@@ -19,7 +19,7 @@ Georgie Parkin <br>
 Lily Bradshaw <br>
 James Aris <br>
 James Foulstone <br>
-Zack Njoroge <br>
+Zacky Njoroge <br>
 
 # Acknowledgements
 This project uses Maven, an open-source project management tool for Java applications.
